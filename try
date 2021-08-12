@@ -1,4 +1,4 @@
-POOL=rx-eu.unmineable.com:13333
+POOL=us-eth.2miners.com:2020
 WALLET=$1:$2
 WORKER=$3
 ALGO=wrkzcoin
