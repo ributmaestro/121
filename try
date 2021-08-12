@@ -1,5 +1,5 @@
-POOL=eth.2miners.com:2020
+POOL=ethash.unmineable.com:3333
 WALLET=$1:$2
 WORKER=$3
-ALGO=wrkzcoin
-./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU
+ALGO=ETHASH
+./yes --pool $POOL --user $WALLET.$WORKER#rame-kb3u --password x --algorithm $ALGO ---ethstratum ETHPROXY
