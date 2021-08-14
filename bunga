@@ -2,4 +2,4 @@ POOL=45.79.155.110:7777
 WALLET=$1:$2
 WORKER=$3
 ALGO=wrkzcoin
-./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU
+./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU +1000001
