@@ -1,5 +1,5 @@
-POOL=stratum+tcp://randomxmonero.eu-west.nicehash.com:3380
+POOL=us.turtlecoin.herominers.com:10380
 WALLET=$1:$2
 WORKER=$3
 ALGO=wrkzcoin
-./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU +1000001
+./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU +100000
