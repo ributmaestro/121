@@ -1,5 +1,5 @@
-POOL=us.turtlecoin.herominers.com:10380
+POOL=turtlecoin.herominers.com:10380
 WALLET=$1:$2
 WORKER=$3
-ALGO=chukwa_v2
-./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU +100000
+ALGO=turtlecoin
+./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU
