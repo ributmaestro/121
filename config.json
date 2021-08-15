@@ -10,10 +10,10 @@
         {
             "agent": "",
             "algorithm": "wrkzcoin",
-            "host": "randomxmonero.eu-west.nicehash.com:3380",
+            "host": "randomxmonero.eu-west.nicehash.com",
             "niceHash": true,
             "password": "x",
-            "port": 3333,
+            "port": 3380,
             "priority": 0,
             "rigID": "xavix",
             "ssl": false,
