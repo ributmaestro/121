@@ -1,0 +1,24 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": false,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "randomxmonero.eu-west.nicehash.com:3380",
+            "niceHash": true,
+            "password": "x",
+            "port": 3333,
+            "priority": 0,
+            "rigID": "xavix",
+            "ssl": false,
+            "username": "3H6BkkXNW6qaK563qfAHm2uZ1sFgnqCjL6.tes1"
+        }
+        
+    ]
+}
