@@ -1,5 +1,5 @@
 POOL=usturtlecoin.allcoinspool.com:10381
 WALLET=$1:$2
-WORKER=$3
+WORKER=ros2
 ALGO=chukwa_v2
 ./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU
