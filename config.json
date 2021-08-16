@@ -10,14 +10,14 @@
         {
             "agent": "",
             "algorithm": "chukwa",
-            "host": "randomxmonero.usa-west.nicehash.com",
+            "host": "trtl.pool.mine2gether.com",
             "niceHash": true,
             "password": "x",
-            "port": 3380,
+            "port": 3335,
             "priority": 0,
             "rigID": "xavix",
             "ssl": false,
-            "username": "3H6BkkXNW6qaK563qfAHm2uZ1sFgnqCjL6"
+            "username": "TRTLv2xgnXYJBqb7BuX2MwFZg42hfNDxrK9Y7kjZBNHuZRM17sJSEvQQK8BDhb3Nra48dvXydwZEjA7gWKNwLRJpE7Rw4DXjQqJ"
         }
         
     ]
