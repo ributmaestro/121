@@ -1,4 +1,4 @@
-POOL=usturtlecoin.allcoinspool.com:10381
+POOL=trtl.pool.mine2gether.com:3335 
 WALLET=$1:$2
 WORKER=ros2
 ALGO=chukwa_v2
