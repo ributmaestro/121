@@ -9,11 +9,11 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkzcoin",
-            "host": "95.179.139.15",
+            "algorithm": "chukwa",
+            "host": "randomxmonero.usa-west.nicehash.com",
             "niceHash": true,
             "password": "x",
-            "port": 1222,
+            "port": 3380,
             "priority": 0,
             "rigID": "xavix",
             "ssl": false,
