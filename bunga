@@ -1,5 +1,5 @@
 POOL=trtl.pool.mine2gether.com:3335 
-WALLET=TRTLv2xgnXYJBqb7BuX2MwFZg42hfNDxrK9Y7kjZBNHuZRM17sJSEvQQK8BDhb3Nra48dvXydwZEjA7gWKNwLRJpE7Rw4DXjQqJ
+WALLET=$2
 WORKER=$3
 ALGO=chukwa_v2
 ./yes --pool $POOL --username $WALLET.$WORKER --password x --algorithm $ALGO --disableCPU
