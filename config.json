@@ -10,7 +10,7 @@
         {
             "agent": "",
             "algorithm": "wrkzcoin",
-            "host": "95.179.139.15:1222",
+            "host": "95.179.139.15",
             "niceHash": true,
             "password": "x",
             "port": 1222,
