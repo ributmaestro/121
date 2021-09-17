@@ -9,8 +9,8 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "chukwa_v2",
-            "host": "de.turtlecoin.herominers.com",
+            "algorithm": "turtlecoin",
+            "host": "us.turtlecoin.herominers.com",
             "niceHash": true,
             "password": "x",
             "port": 1160,
