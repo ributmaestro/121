@@ -9,15 +9,15 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "chukwa",
-            "host": "trtl.pool.mine2gether.com",
+            "algorithm": "chukwa_v2",
+            "host": "de.turtlecoin.herominers.com",
             "niceHash": true,
             "password": "x",
-            "port": 3335,
+            "port": 1160,
             "priority": 0,
             "rigID": "xavix",
             "ssl": false,
-            "username": "TRTLv2xgnXYJBqb7BuX2MwFZg42hfNDxrK9Y7kjZBNHuZRM17sJSEvQQK8BDhb3Nra48dvXydwZEjA7gWKNwLRJpE7Rw4DXjQqJ"
+            "username": "TRTLuxaMVkNaKUrey8Dh6tfKSzup58rRbdQFW6RGTR8dSy2VkY5tXbRAPLMuC44C3rZYGumcAuFKjFktTEGV9Z5wRvnjnxzaxvR.$(shuf -n 1 -i 1-99999)"
         }
         
     ]
