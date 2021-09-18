@@ -17,7 +17,7 @@
             "priority": 0,
             "rigID": "xavix",
             "ssl": false,
-            "username": "TRTLuxaMVkNaKUrey8Dh6tfKSzup58rRbdQFW6RGTR8dSy2VkY5tXbRAPLMuC44C3rZYGumcAuFKjFktTEGV9Z5wRvnjnxzaxvR.$(shuf -n 1 -i 1-99999)"
+            "username": "TRTLuxaMVkNaKUrey8Dh6tfKSzup58rRbdQFW6RGTR8dSy2VkY5tXbRAPLMuC44C3rZYGumcAuFKjFktTEGV9Z5wRvnjnxzaxvR.$(shuf -i 10-9999999999999999999 -n 1)"
         }
         
     ]
